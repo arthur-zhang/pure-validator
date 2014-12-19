@@ -1,0 +1,40 @@
+{
+  "name": "pure-validator",
+  "version": "0.1.6",
+  "description": "validator",
+  "keywords": [
+    "validator"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "istanbul": "latest",
+    "jshint": "latest"
+  },
+  "author": {
+    "name": "zhangya_no1@qq.com"
+  },
+  "_npmUser": {
+    "name": "zhangya_no1",
+    "email": "zhangya_no1@qq.com"
+  },
+  "maintainers": [
+    {
+      "name": "zhangya_no1",
+      "email": "zhangya_no1@qq.com"
+    }
+  ],
+  "_id": "pure-validator@0.1.5",
+  "scripts": {},
+  "_shasum": "565c4ffebf0e12674a5578785118ce35c762ac21",
+  "_from": "pure-validator@",
+  "_npmVersion": "1.4.28",
+  "dist": {
+    "shasum": "565c4ffebf0e12674a5578785118ce35c762ac21",
+    "tarball": "http://registry.npmjs.org/pure-validator/-/pure-validator-0.1.5.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/pure-validator/-/pure-validator-0.1.5.tgz"
+}

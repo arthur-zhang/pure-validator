@@ -1,6 +1,6 @@
 {
   "name": "pure-validator",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "validator",
   "keywords": [
     "validator"
@@ -36,5 +36,10 @@
     "tarball": "http://registry.npmjs.org/pure-validator/-/pure-validator-0.1.5.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/pure-validator/-/pure-validator-0.1.5.tgz"
+  "_resolved": "https://registry.npmjs.org/pure-validator/-/pure-validator-0.1.5.tgz",
+  "homepage": "https://github.com/arthur-zhang/pure-validator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arthur-zhang/pure-validator.git"
+  }
 }
